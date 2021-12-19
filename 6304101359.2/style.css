@@ -1,0 +1,12 @@
+.button {
+    color: rgb(250, 240, 240);
+    background-color: rgb(250, 242, 242);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px; 
+    display: inline-block;
+    padding-left: 30px;
+    width: 20%;
+    padding-right: 10px;
+}
